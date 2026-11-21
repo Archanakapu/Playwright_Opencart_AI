@@ -107,7 +107,7 @@ pipeline {
             </p>
         """,
         to: "kapuarchana4@gmail.com", //Replace with the recipient's email address
-        from: "archana.kapu@gmail.com, //Replace with the sender's email address
+        from: "archana.kapu@gmail.com", //Replace with the sender's email address
         replyTo: "RECIVER_EMAIL_ADDRESS",  //Replace with the recipient's email address
         mimeType: "text/html" //Defines the format of the email body. text/html allows HTML formatting (tables, colors, bold text, links, etc.).
       )
